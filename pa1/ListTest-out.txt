@@ -1,0 +1,16 @@
+
+
+Test Empty_length: PASSED
+Test Append_length: PASSED
+Test Prepend_length: PASSED
+Test InsertAfter_length: PASSED
+Test InsertBefore_length: PASSED
+Test DeleteFront_length: PASSED
+Test DeleteBack_length: FAILED: due to a segfault
+
+WARNING: Program will now stop running tests
+
+Receiving charity points because your program crashes
+
+You will receive 10 out of 55 possible points on the ListTests
+

@@ -1,0 +1,41 @@
+--- outfile3.txt	2019-11-29 19:59:23.000000001 -0800
++++ model-outfile3.txt	2019-11-29 19:59:10.000000001 -0800
+@@ -1,26 +1,13 @@
+-12 12 12 12 12 12 12 12 12 12 12 12 12 0 11 11 11 11 11 11 11 10 11 11 11 10 10 10 10 10 10 9 10 10 8 9 9 8 9 8 8 9 8 8 8 8 8 8 8 7 5 7 7 5 7 7 5 7 6 5 6 5 5 5 3 5 2 3 4 3 2 3 2 2 1 2 2 0 2 0 1 0 1 0 0 0 0 0 0 0 0 0 0 ===
+- + 
+ ===
+- + 
+-===
+- + 
+-===
+- + 
+-===
+- + 
+-===
+- + 
+-===
+- + 
+-===
+- + 
+-===
+- + 
+-===
+- + 
+-===
+- + 
+-===
+- + 
+-===
+- + 
++====
++=====
++every line as a single string
++have to do is treat
++in accordance with
++may appear in tests
++out in the PDF
++seriously all you
++so you better
++sometimes tokens
++the instructions set
++write your program

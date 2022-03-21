@@ -1,0 +1,12 @@
+Ravi Gupta
+radgupta
+pa4
+
+List.c - creates a List ADT
+List.h - header file for List.c
+Graph.c - creates a Graph ADT using List ADT
+Graph.h - header file for Graph.c
+GraphTest.c - testfile for Graph.c
+FindPath.c - finds shortest paths
+Makefile - compiles the code
+README - explains files

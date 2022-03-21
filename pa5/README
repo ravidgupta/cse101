@@ -1,0 +1,12 @@
+Ravi Gupta
+radgupta
+pa5
+
+List.h - Header File for List.c
+List.c - implementation of List ADT
+Graph.h - Header File for Graph.c
+Graph.c - implementation of Graph ADT
+GraphTest.c - Test for Graph ADT
+FindComponents.c - Find the components of a Graph
+README - contains information
+Makefile - runs the program

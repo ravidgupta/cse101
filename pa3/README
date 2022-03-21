@@ -1,0 +1,12 @@
+Ravi Gupta
+radgupta
+pa3
+Arithmetic.c - Top level client for the project
+BigInteger.c - BigInteger implementation file
+BigInteger.h - BigInteger header file
+BigIntegerTest.c - Test suite for the BigInteger ADT
+List.c - List implementation file
+List.h - List header file
+ListTest.c - Test suite for the List ADT
+README - Contents of the project
+Makefile - compiles project
